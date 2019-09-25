@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\admin\\poj\\flutter\\flutter_ffi_demo\\android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\admin\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\admin\\poj\\flutter\\flutter_ffi_demo\\android\\app\\.externalNativeBuild\\cmake\\release\\x86 --target clean"
+  ],
+  "libraries": {
+    "wer-Release-x86": {
+      "artifactName": "wer",
+      "buildCommand": "C:\\Users\\admin\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\admin\\poj\\flutter\\flutter_ffi_demo\\android\\app\\.externalNativeBuild\\cmake\\release\\x86 --target wer",
+      "abi": "x86",
+      "output": "C:\\Users\\admin\\poj\\flutter\\flutter_ffi_demo\\build\\app\\intermediates\\cmake\\release\\obj\\x86\\libwer.so"
+    }
+  }
+}

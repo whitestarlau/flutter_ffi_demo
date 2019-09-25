@@ -1,0 +1,3 @@
+C:/Users/admin/poj/flutter/flutter_ffi_demo/android/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/wer.dir
+C:/Users/admin/poj/flutter/flutter_ffi_demo/android/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Users/admin/poj/flutter/flutter_ffi_demo/android/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

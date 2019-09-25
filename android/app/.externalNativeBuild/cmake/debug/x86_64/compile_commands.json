@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/admin/poj/flutter/flutter_ffi_demo/android/app/.externalNativeBuild/cmake/debug/x86_64",
+  "command": "C:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/admin/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/admin/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dwer_EXPORTS -IC:/Users/admin/poj/flutter/flutter_ffi_demo/android/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\wer.dir\\wer.cpp.o -c C:\\Users\\admin\\poj\\flutter\\flutter_ffi_demo\\android\\app\\src\\main\\cpp\\wer.cpp",
+  "file": "C:\\Users\\admin\\poj\\flutter\\flutter_ffi_demo\\android\\app\\src\\main\\cpp\\wer.cpp"
+}
+]

@@ -1,0 +1,40 @@
+{
+  "stringTable": {
+    "0": "C:/Users/admin/poj/flutter/flutter_ffi_demo/android/app/.externalNativeBuild/cmake/release/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/admin/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/admin/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dwer_EXPORTS -IC:/Users/admin/poj/flutter/flutter_ffi_demo/android/app/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\admin\\poj\\flutter\\flutter_ffi_demo\\android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\admin\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\admin\\poj\\flutter\\flutter_ffi_demo\\android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "wer-Release-arm64-v8a": {
+      "buildCommand": "C:\\Users\\admin\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\admin\\poj\\flutter\\flutter_ffi_demo\\android\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target wer",
+      "buildType": "release",
+      "toolchain": "2042530472",
+      "abi": "arm64-v8a",
+      "artifactName": "wer",
+      "files": [
+        {
+          "src": "C:\\Users\\admin\\poj\\flutter\\flutter_ffi_demo\\android\\app\\src\\main\\cpp\\wer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "C:\\Users\\admin\\poj\\flutter\\flutter_ffi_demo\\build\\app\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libwer.so"
+    }
+  },
+  "toolchains": {
+    "2042530472": {
+      "cppCompilerExecutable": "C:\\Users\\admin\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
